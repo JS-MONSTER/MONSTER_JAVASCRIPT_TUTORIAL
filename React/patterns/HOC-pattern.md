@@ -1,10 +1,3 @@
----
-created: 2022-09-11T12:30:56 (UTC +04:00)
-tags: []
-source: https://javascriptpatterns.vercel.app/patterns/react-patterns/conpres
-author: Lydia Hallie
----
-
 # Higher-Order Components | JavaScript Patterns
 
 > ## Excerpt
