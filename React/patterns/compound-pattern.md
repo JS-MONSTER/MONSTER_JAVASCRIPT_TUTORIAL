@@ -1,7 +1,5 @@
  Compound Pattern | JavaScript Patterns
 
-> ## Excerpt
-> Website created for the FrontendMasters course on JavaScript Patterns by Lydia Hallie
 
 ---
 Create multiple components that work together to perform a single task
