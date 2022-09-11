@@ -1,10 +1,3 @@
----
-created: 2022-09-11T12:29:08 (UTC +04:00)
-tags: []
-source: https://javascriptpatterns.vercel.app/patterns/react-patterns/conpres
-author: Lydia Hallie
----
-
 # Container/Presentational Pattern | JavaScript Patterns
 
 > ## Excerpt
